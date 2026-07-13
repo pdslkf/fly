@@ -1,1 +1,1 @@
-clan://localhost/tvbox/gongdian/gongdian.json
+clan://localhost/tvbox/fly/fly.json
